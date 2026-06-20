@@ -2,6 +2,8 @@
 
 **Data Scientist** based in Copenhagen, Denmark.
 
+Currently working at **[Nordic Sustainability](https://nordicsustainability.com/)**, a Copenhagen-based sustainability strategy consultancy, where I build data pipelines and automation that support the firm's advisory work — lead and stakeholder intelligence, prospect research at scale, and internal tooling around sustainability frameworks (CSRD/ESRS, SBTi).
+
 Focused on AI implementation, machine learning, workflow automation, and political data analysis.
 
 ## About
@@ -12,6 +14,7 @@ Focused on AI implementation, machine learning, workflow automation, and politic
 
 ## What I Do
 
+- Data & automation @ **Nordic Sustainability** — lead/stakeholder intelligence, scaled prospect research, and internal tooling for sustainability advisory (CSRD/ESRS, SBTi)
 - Train and evaluate **deep learning** models for computer vision (CNNs, transfer learning, Grad-CAM)
 - Build **NLP** text-classification systems (TF-IDF, Word2Vec, fine-tuned transformers, LLM baselines)
 - Forecast time series (SARIMA / ETS, diagnostics-first model selection)
