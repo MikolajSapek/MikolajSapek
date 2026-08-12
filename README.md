@@ -9,6 +9,7 @@ Focused on AI implementation, machine learning, workflow automation, and politic
 ## About
 
 - MSc in Business Administration & Data Science @ [Copenhagen Business School](https://www.cbs.dk/)
+- BSc in Management & Artificial Intelligence @ [Kozminski University](https://www.kozminski.edu.pl/en)
 - Exchange @ Konkuk University (Seoul) & Singapore Management University
 
 ## What I Do
