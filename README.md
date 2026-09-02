@@ -2,7 +2,11 @@
 
 **Data Scientist** based in Copenhagen, Denmark. Currently on exchange at the **[University of Maryland, Robert H. Smith School of Business](https://www.rhsmith.umd.edu/)** in College Park (Fall 2026).
 
-From February to August 2026 I worked at **[Nordic Sustainability](https://nordicsustainability.com/)**, a Copenhagen-based sustainability strategy consultancy, where I led the firm's **AI adoption and training** and owned its **knowledge management**, alongside building data pipelines and automation for the advisory work: lead and stakeholder intelligence, prospect research at scale, and internal tooling around sustainability frameworks (CSRD/ESRS, SBTi).
+From February to August 2026 I worked at **[Nordic Sustainability](https://nordicsustainability.com/)**, a Copenhagen-based sustainability strategy consultancy. It was an internal AI and knowledge management role, reporting to the Internal Strategy & Operations Lead: working out how the company should use AI, fixing where its knowledge lived, and keeping both secure. It grew into IT administration too.
+
+- **AI adoption**: ran the firm's first AI maturity audit (anonymised interviews across every team, written up as an adoption model for leadership); co-authored the AI policy including a "four eyes" rule for all client-facing AI output; led the move to Claude as the single approved AI tool; introduced Claude Code; co-ran "AI Clinic" workshops and prompting training split by maturity tier
+- **Knowledge management**: designed and built the company knowledge base in Obsidian (client projects, frameworks, policies, HR, operations); automated the SharePoint archive migration into structured, linked, searchable notes; connected the vault to Claude through MCP so the team could query it in plain language, and documented it so colleagues could rebuild it without me
+- **Microsoft 365, website and IT security**: M365 administrator (users, licences, SharePoint permissions, Teams, Intune, access recovery, Graph API scripting); administered the company website and owned the agency relationship; GDPR and data protection work including the personal data register and enforcing MFA; wrote the company-wide onboarding IT and security checklist
 
 Focused on AI implementation, machine learning, workflow automation, and political data analysis.
 
