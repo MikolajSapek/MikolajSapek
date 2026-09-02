@@ -1,21 +1,22 @@
 # Hi, I'm Mikolaj Pawel Sapek
 
-**Data Scientist** based in Copenhagen, Denmark.
+**Data Scientist** based in Copenhagen, Denmark. Currently on exchange at the **[University of Maryland, Robert H. Smith School of Business](https://www.rhsmith.umd.edu/)** in College Park (Fall 2026).
 
-Currently working at **[Nordic Sustainability](https://nordicsustainability.com/)**, a Copenhagen-based sustainability strategy consultancy. I lead the firm's **AI adoption and training** and own its **knowledge management**, alongside building data pipelines and automation for the advisory work — lead and stakeholder intelligence, prospect research at scale, and internal tooling around sustainability frameworks (CSRD/ESRS, SBTi).
+From February to August 2026 I worked at **[Nordic Sustainability](https://nordicsustainability.com/)**, a Copenhagen-based sustainability strategy consultancy, where I led the firm's **AI adoption and training** and owned its **knowledge management**, alongside building data pipelines and automation for the advisory work: lead and stakeholder intelligence, prospect research at scale, and internal tooling around sustainability frameworks (CSRD/ESRS, SBTi).
 
 Focused on AI implementation, machine learning, workflow automation, and political data analysis.
 
 ## About
 
 - MSc in Business Administration & Data Science @ [Copenhagen Business School](https://www.cbs.dk/)
+- Exchange semester @ [UMD Robert H. Smith School of Business](https://www.rhsmith.umd.edu/), College Park (Fall 2026)
 - BSc in Management & Artificial Intelligence @ [Kozminski University](https://www.kozminski.edu.pl/en)
-- Exchange @ Konkuk University (Seoul) & Singapore Management University
+- Earlier exchange @ Konkuk University (Seoul) & Singapore Management University
 
 ## What I Do
 
-- Lead **AI adoption, enablement and training** and run **knowledge management** @ **Nordic Sustainability**
-- Data & automation @ **Nordic Sustainability** — lead/stakeholder intelligence, scaled prospect research, and internal tooling for sustainability advisory (CSRD/ESRS, SBTi)
+- Led **AI adoption, enablement and training** and ran **knowledge management** @ **Nordic Sustainability** (Feb to Aug 2026)
+- Data & automation @ **Nordic Sustainability**: lead/stakeholder intelligence, scaled prospect research, and internal tooling for sustainability advisory (CSRD/ESRS, SBTi)
 - Train and evaluate **deep learning** models for computer vision (CNNs, transfer learning, Grad-CAM)
 - Build **NLP** text-classification systems (TF-IDF, Word2Vec, fine-tuned transformers, LLM baselines)
 - Forecast time series (SARIMA / ETS, diagnostics-first model selection)
